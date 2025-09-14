@@ -1,0 +1,28 @@
+h1 {
+    font-family: sans-serif;
+    padding: 10px;
+    border-color: orange;
+    border-radius: 10px;
+    background-color: yellow;
+    display:inline-block;
+}
+
+img {
+    display: block;
+}
+
+li {
+    padding: 5px;
+}
+
+.important-one {
+    font-weight: bold;
+}
+
+.important-two {
+    background-color: yellow;
+}
+
+.important-three {
+    color: red;
+}
